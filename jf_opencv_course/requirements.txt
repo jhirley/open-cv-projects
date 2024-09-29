@@ -1,0 +1,2 @@
+caer
+opencv-contrib-python

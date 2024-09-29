@@ -7,6 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from scipy.linalg import eigh 
 
 d0 = pd.read_csv('mnist_train.csv')
+#jf https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download&select=mnist_train.csv
 
 print(d0.head(5)) # print first five rows of d0.
 

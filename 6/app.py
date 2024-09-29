@@ -19,6 +19,7 @@ def prepare_image(file_path):
     img_batch = np.expand_dims(img_preprocessed, axis=0)
     
     return img_batch
+    
 
 def predict_image(file_path):
     # Prepare the image

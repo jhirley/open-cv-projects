@@ -29,6 +29,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+venv/
+venv.nosync/
+*.no.sync
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

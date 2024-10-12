@@ -28,7 +28,7 @@ cv.imshow('Mask', masked)
 # grey_hist = cv.calcHist([grey], [0], mask, [256], [0,256])
 
 plt.figure()
-plt.title('Grayscale Histogram')
+plt.title('Color Histogram')
 plt.xlabel('Bins')
 plt.ylabel('# of pixels')
 # plt.plot(img) # plot the histogram
